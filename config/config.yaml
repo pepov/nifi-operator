@@ -1,0 +1,3 @@
+apiVersion: pepov.io/v1alpha1
+kind: NiFi
+projectName: nifi-operator

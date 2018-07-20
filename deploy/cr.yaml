@@ -1,0 +1,4 @@
+apiVersion: "pepov.io/v1alpha1"
+kind: "NiFi"
+metadata:
+  name: "example"
